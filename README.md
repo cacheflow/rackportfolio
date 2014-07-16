@@ -1,0 +1,1 @@
+So I've learned that you can't deploy purely static pages to Heroku, so to get around it I'm creating a rack app.
